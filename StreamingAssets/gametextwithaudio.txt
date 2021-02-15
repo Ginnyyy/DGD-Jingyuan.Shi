@@ -1,0 +1,4 @@
+idevent	speaker	text	nextevent	LastEventInSequence	imageAsset	audioAsset
+0	Player	Let's collect sweets!	1	N	PlayerDialogueImage	randomsound1	$%
+1	Player	Cakes can get more points!	2	Y	PlayerDialogueImageMove	randomsound2	$%
+2	Player	wow, that was hard!	-1	Y	PlayerDialogueImageTired	randomsound3	$%
